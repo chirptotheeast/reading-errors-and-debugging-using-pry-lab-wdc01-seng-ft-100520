@@ -7,7 +7,5 @@ def snake_it_up(string)
   10.times do 
     puts "s"
     end  + string
-  else
-    string
-  end
+  
 end
