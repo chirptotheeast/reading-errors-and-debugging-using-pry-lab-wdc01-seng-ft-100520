@@ -2,7 +2,7 @@
 require 'pry'
 
 
-number = 10.to_s
+number = "10"
 def snake_it_up(string)
   if string[0] == "s"
   number * "s" + string
