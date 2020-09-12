@@ -2,11 +2,9 @@
 require 'pry'
 
 
-number = "10"
 def snake_it_up(string)
   if string[0] == "s"
-  number * "s" + string
-   binding.pry
+  10 * "s" + string
 else
     string
   end
